@@ -8,6 +8,5 @@ That's simple applications in Flask writing "hello World" in your browser.
 
 
 You need:
-Python
-Flask. 
-More about flask at: http://flask.pocoo.org/
+Python 2.6 or higher
+Flask.   More about flask at: http://flask.pocoo.org/
